@@ -15,7 +15,7 @@ This is project made with Ruby and sql, with a basic UI(command line). It is a c
 To get a local copy up and running follow these simple steps.
 
 ```bash
-$ https://github.com/orozCoding/catalog-of-my-things.git
+$ https://https://github.com/Anny85-code/catalog-of-my-things.git
 $ cd catalog-of-my-things
 ```
 
