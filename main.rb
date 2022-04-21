@@ -3,7 +3,7 @@ require_relative './app/app'
 def main
   app = App.new
 
-  puts 'Welcome to School Library App!'
+  puts 'Welcome to Catalog of my things App!'
 
   app.populate_app
 
